@@ -14,8 +14,15 @@
 //= require bootstrap-sass-official
 //= require angular
 //= require angular-ui-router
-//= require angular-ui-bootstrap-bower
+//= require bootstrap
 //= require restangular
 //= require lodash
+//= require angular-rails-templates
 
-//= require_tree .
+//= require config
+//= require_tree ../templates
+//= require app
+//= require routes
+
+//= require_tree ./controllers
+//= require_tree ./services

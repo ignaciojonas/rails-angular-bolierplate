@@ -8,7 +8,7 @@ Boilerplate to start an application using Ruby on Rails and Angular JS
 Execute
 ```rails new rails-angular-boilerplate --skip-bundle --quiet --database=postgresql```
 
-# Add Gems
+## Add Gems
 
 Add to the Gemfile
 ```ruby
